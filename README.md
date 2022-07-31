@@ -17,7 +17,17 @@
 
 <br/>
 
-#### :hammer_and_wrench: Languages and Tools:
+## Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm Quan Le - a Front-End developer currently living in :kr: Seoul, South Korea.
+
+- 🔭 I’m currently working on something cool with WebGL :grimacing:
+- 🌱 I’m currently learning GLSL, webpack
+- 💬 Ask me about anything related to JavaScript, WebGL, animations :bowtie:
+- 📫 How to reach me: [quanle.is](https://quanleio.netlify.app/)
+- ⚡ Fun fact: I hate :cat: love :dog: and a big fan of <img style="display: inline-block; margin: 0 auto; max-width: 100px" src="https://64.media.tumblr.com/9ca886790bf1b8f6d97b9d4defb49efc/ca47d2dbaf278410-44/s540x810/cca2c6eb205f7d678ce16dde8aba4f76153012c7.gif" width="100"/>
+
+## :hammer_and_wrench: Languages and Tools:
 <div id="badges">
   <img src="https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E"/>
   <img src="https://img.shields.io/badge/WebGL-blue?style=flat&logo=webgl&logoColor=white&labelColor=990000&color=990000"/>
@@ -26,14 +36,11 @@
   <img src="https://img.shields.io/badge/Unity-white?style=flat&logo=unity&logoColor=black&labelColor=FFFFFF&color=FFFFFF"/>
   <img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=1572B6"/>
-  <img src="https://img.shields.io/badge/Bulma-white?style=flat&logo=bulma&logoColor=white&labelColor=00D1B2&color=00D1B2"/>
-  <img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&color=339933"/>
-  <img src="https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032"/>
 </div>
 
 <br/>
 
-🏆 GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lehquan&title=Repositories,Commits&row=2column=2&theme=onedark&no-bg=true&no-frame=true)](https://github.com/lehquan/github-profile-trophy)
 <br/>
