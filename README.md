@@ -1,10 +1,11 @@
 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lehquan&title=Repositories,Commits&row=2column=2&theme=onedark&no-bg=true&no-frame=true)](https://github.com/lehquan/github-profile-trophy)
+<br/>
 
-
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lehquan&theme=radical)](https://git.io/streak-stats)
-
+-->
 
 
 [![Quanle's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehquan&hide=prs&show_icons=true&theme=radical)](https://github.com/lehquan/github-readme-stats)
