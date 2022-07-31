@@ -15,16 +15,20 @@
   </a>
 </div>
 
-<!--
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lehquan&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
--->
+<br/>
 
+#### :hammer_and_wrench: Technology Stack:
+<div id="badges">
+  <img src="https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=1572B6"/>
+  <img src="https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933&color=339933"/>
+  <img src="https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=white&labelColor=F05032&color=F05032"/>
+  <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=spring&logoColor=white&labelColor=6DB33F&color=6DB33F"/>
+</div>
+
+<br/>
 
 🏆 GitHub Profile Trophy
 
