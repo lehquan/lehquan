@@ -4,14 +4,17 @@
 <br/>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lehongquanvn/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://quanleio.netlify.app/">
+    <img src="https://img.shields.io/badge/quanle.is-white?style=flat&logo=aboutdotme&logoColor=white&labelColor=00A98F&color=00A98F"/>
   </a>
-  <a href="https://quanleio.hashnode.dev/">
+  <a href="https://codesandbox.io/u/lehquan">
     <img src="https://img.shields.io/badge/CodeSandbox-black?style=flat&logo=codesandbox"/>
   </a>
   <a href="https://quanleio.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-white?style=flat&logo=hashnode&logoColor=FFFFFF&labelColor=2962FF&color=2962FF"/>
+    <img src="https://img.shields.io/badge/Hashnode-white?style=flat&logo=hashnode&logoColor=white&labelColor=2962FF&color=2962FF"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lehongquanvn/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
@@ -33,7 +36,7 @@ I'm Quan Le - a Front-End developer currently living in :kr: Seoul, South Korea.
   <img src="https://img.shields.io/badge/WebGL-blue?style=flat&logo=webgl&logoColor=white&labelColor=990000&color=990000"/>
   <img src="https://img.shields.io/badge/Three.js-blue?style=flat&logo=threedotjs&logoColor=white&labelColor=000000&color=000000"/>
   <img src="https://img.shields.io/badge/R3F-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB"/>
-  <img src="https://img.shields.io/badge/Unity-white?style=flat&logo=unity&logoColor=black&labelColor=FFFFFF&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Unity-white?style=flat&logo=unity&logoColor=black&labelColor=white&color=white"/>
   <img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=1572B6"/>
 </div>
