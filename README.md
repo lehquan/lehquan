@@ -17,7 +17,7 @@
 
 <br/>
 
-#### :hammer_and_wrench: Technology Stack:
+#### :hammer_and_wrench: Languages and Tools:
 <div id="badges">
   <img src="https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E"/>
   <img src="https://img.shields.io/badge/WebGL-blue?style=flat&logo=webgl&logoColor=white&labelColor=990000&color=990000"/>
@@ -43,7 +43,6 @@
 -->
 
 [![Quanle's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehquan&hide=prs&show_icons=true&theme=radical)](https://github.com/lehquan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehquan&layout=compact&theme=radical)](https://github.com/lehquan/github-readme-stats)
 
 <!--
 **lehquan/lehquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
