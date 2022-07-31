@@ -20,6 +20,8 @@
 #### :hammer_and_wrench: Technology Stack:
 <div id="badges">
   <img src="https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/WebGL-blue?style=flat&logo=webgl&logoColor=white&labelColor=990000&color=990000"/>
+  <img src="https://img.shields.io/badge/Three.js-blue?style=flat&logo=threedotjs&logoColor=white&labelColor=000000&color=000000"/>
   <img src="https://img.shields.io/badge/HTML5-blue?style=flat&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=white&labelColor=1572B6&color=1572B6"/>
   <img src="https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB"/>
