@@ -3,6 +3,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=lehquan&title=Repositories,Commits&row=2column=2&theme=onedark&no-bg=true&no-frame=true)](https://github.com/lehquan/github-profile-trophy)
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lehquan&theme=radical)](https://git.io/streak-stats)
+
+
+
 [![Quanle's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehquan&hide=prs&show_icons=true&theme=radical)](https://github.com/lehquan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehquan&layout=compact&theme=radical)](https://github.com/lehquan/github-readme-stats)
 
