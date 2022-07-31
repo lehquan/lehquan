@@ -11,10 +11,11 @@
     <img src="https://img.shields.io/badge/CodeSandbox-black?style=flat&logo=codesandbox"/>
   </a>
   <a href="https://quanleio.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-blue?style=flat&logo=hashnode"/>
+    <img src="https://img.shields.io/badge/Hashnode-white?style=flat&logo=hashnode&logoColor=FFFFFF&labelColor=2962FF&color=2962FF"/>
   </a>
 </div>
 
+<!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lehquan&style=flat-square&color=blue" alt=""/>
 </div>
@@ -22,6 +23,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+-->
 
 
 🏆 GitHub Profile Trophy
