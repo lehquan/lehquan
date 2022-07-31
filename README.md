@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</div>
+
+
 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lehquan&title=Repositories,Commits&row=2column=2&theme=onedark&no-bg=true&no-frame=true)](https://github.com/lehquan/github-profile-trophy)
