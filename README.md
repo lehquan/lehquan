@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 [![Quanle's GitHub stats](https://github-readme-stats.vercel.app/api?username=lehquan&hide=prs&show_icons=true&theme=radical)](https://github.com/lehquan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehquan&theme=radical)](https://github.com/lehquan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehquan&layout=compact&theme=radical)](https://github.com/lehquan/github-readme-stats)
 
 <!--
 **lehquan/lehquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
