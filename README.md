@@ -25,7 +25,7 @@
 I'm Quan Le - a Front-End developer currently living in :kr: Seoul, South Korea.
 
 - 🔭 I’m currently working on something cool with WebGL :grimacing:
-- 🌱 I’m currently learning GLSL, webpack
+- 🌱 I’m currently learning GLSL, webpack. See more: <a href="https://github.com/lehquan/sketch-lab">sketch-lab</a>
 - 💬 Ask me about anything related to JavaScript, WebGL, animations :bowtie:
 - 📫 How to reach me: [quanle.is](https://quanleio.netlify.app/)
 - ⚡ Fun fact: I hate :cat: love :dog: and a big fan of <img style="display: inline-block; margin: 0 auto; max-width: 100px" src="https://64.media.tumblr.com/9ca886790bf1b8f6d97b9d4defb49efc/ca47d2dbaf278410-44/s540x810/cca2c6eb205f7d678ce16dde8aba4f76153012c7.gif" width="100"/>
